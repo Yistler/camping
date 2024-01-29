@@ -7,7 +7,7 @@
 
 ### Temas 
 
-- [Descripción del proyecto](#descripción-del-proyecto)
+- [Descripción del proyecto Evaluación universitaria de Servicios Web](#descripción-del-proyecto-evaluación-universitaria-de-servicios-web)
 
 - [Funcionalidades](#funcionalidades)
 
@@ -48,8 +48,7 @@ web REST que permite agregar, modificar, eliminar y consultar entidades.
 :heavy_check_mark: `Funcionalidad 7:` Listar alojamientos: Permite obtener la lista de todos los alojamientos registrados en el sistema.
 ## Aplicación
 
-
-
+<img src="https://raw.githubusercontent.com/Yistler/camping/main/imagenes/camping.png" alt="Estructura del proyecto"/>
 
 ###
 
