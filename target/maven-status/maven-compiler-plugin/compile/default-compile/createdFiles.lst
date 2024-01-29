@@ -1,0 +1,10 @@
+com\camping\losalerces\entidades\Alojamiento.class
+com\camping\losalerces\servicios\UsuarioService.class
+com\camping\losalerces\entidades\Representante.class
+com\camping\losalerces\servicios\AlojamientoService.class
+com\camping\losalerces\servicios\TipoAlojamientoService.class
+com\camping\losalerces\servicios\TipoVehiculoService.class
+com\camping\losalerces\entidades\Usuarios.class
+com\camping\losalerces\servicios\RepresentanteService.class
+com\camping\losalerces\entidades\TipoAlojamiento.class
+com\camping\losalerces\entidades\TipoVehiculo.class
