@@ -63,13 +63,13 @@ Puedes [acceder al código fuente del proyecto](https://github.com/Yistler/campi
 
 ## Abrir y rodar el proyecto
 
-Clonar el repositorio desde GitHub: https://github.com/Yistler/camping
-Abrir un proyecto existente (o alguna opcion similar) desde netbeans.
-Busque la ubicación donde esta el proyecto y seleccionalo.
-Finalmente aga click en aceptar.
-Debes tener conectado Apache tomcat con Xampp el cual es un servidor web local multiplataforma que permite la creación y prueba de páginas web u otros elementos de programación.
-Verificar que en la obcion Service pestaña servers este el nombre de proyecto corriendo no en sttoped.
-Corre el proyecto (Run project "icono verde").
-Prueba los servicios accediendo a las urls correspondiente de cada metodo
-Ejemplo: http://localhost:8080/losAlerces/rest/usuarios
+- Clonar el repositorio desde GitHub: https://github.com/Yistler/camping
+- Abrir un proyecto existente (o alguna opcion similar) desde netbeans.
+- Busque la ubicación donde esta el proyecto y seleccionalo.
+- Finalmente aga click en aceptar.
+- Debes tener conectado Apache tomcat con Xampp el cual es un servidor web local multiplataforma que permite la creación y prueba de páginas web u otros elementos de programación.
+- Verificar que en la obcion Service pestaña servers este el nombre de proyecto corriendo no en sttoped.
+- Corre el proyecto (Run project "icono verde").
+- Prueba los servicios accediendo a las urls correspondiente de cada metodo
+- Ejemplo: http://localhost:8080/losAlerces/rest/usuarios
 Realizar pruebas y verificar el correcto funcionamiento del servicio web REST utilizando herramientas como Postman o SoapUI 🏆 
