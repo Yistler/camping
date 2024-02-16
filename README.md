@@ -20,7 +20,7 @@
 - [Abrir y rodar el proyecto](#abrir-y-rodar-el-proyecto)
 
 
-## Descripción del proyecto Evaluación universitaria de Servicios Web
+## Descripción del proyecto Evaluación universitaria de Servicios Web Rest
 
 <p align="justify">
   ¡Desarrollando una solución tecnológica para mejorar la gestión de un camping!
